@@ -45,7 +45,7 @@ const About = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Self-driven Marine Corps veteran turned Full Stack Web Developer. Combining my leadership/ management, critical thinking, problem solving, and communication skills with my abilities to develop user friendly applications and websites utilizing React, JavaScript, HTML, CSS, Node.JS, and MongoDB to name a few. I specialize working with a small team or on my own, either way the completion of my assigned tasks is my main priority. I possess the resilience and tenacity to help organizations thrive in uncertain times. Currently possess an active Secret clearance.
+      Software Engineer with experience helping large companies solve complex problems through scalable, full-stack web solutions. I have hands-on experience with MongoDB, Express.js, React.js, Angular, and Node.js, and am proficient in JavaScript and TypeScript across the stack. My strengths include developing RESTful APIs, managing application state, working with asynchronous programming, using Git for version control, and deploying and maintaining production-ready applications.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

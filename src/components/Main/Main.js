@@ -9,10 +9,10 @@ const Main = () => (
     <LeftSection>
       <SectionTitle main center>
         Welcome, I'm Zach Matthews <br/>
-        Full Stack Web Developer
+        Software Engineer
       </SectionTitle>
       <SectionText>
-        Dedicated to learning | Leadership abilities | Relentless work ethic
+        Problem Solver | MEAN & MERN Stack | Looking for my next team
       </SectionText>
       <Button onClick={() => window.scrollTo(0,document.body.scrollHeight)}>Contact Me</Button>
     </LeftSection>
