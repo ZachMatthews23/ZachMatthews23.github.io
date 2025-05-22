@@ -47,8 +47,6 @@ const Technologies = () => (
           <SiTypescript size="3.5rem" />
           <DiReact size="3.5rem" />
           <DiJsBadge size="3.5rem" />
-          <DiHtml5 size="3.5rem" />
-          <DiCss3 size="3.5rem" />
         </Grid>
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
@@ -89,8 +87,6 @@ const Technologies = () => (
         <Grid>
           <DiBootstrap size="3.5rem" />
           <DiGit size="3.5rem" />
-          <DiTrello size="3.5rem" />
-          <SiJest size="3.5rem" />
           <SiNx size="3.5rem" />
           <SiNgrx size="3.5rem" />
         </Grid>
