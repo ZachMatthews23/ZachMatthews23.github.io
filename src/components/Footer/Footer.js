@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillGithub, AiFillLinkedin, AiOutlineRocket } from "react-icons/ai";
-import { TbBrandNextjs } from "react-icons/tb";
+import { VscSourceControl } from "react-icons/vsc";
 
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
@@ -49,15 +49,11 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/zachary-matthews-734647171/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
+          <SocialIcons href="https://github.com/ZachMatthews23/ZachMatthews23.github.io">
+            <VscSourceControl size="3rem" />
+          </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
-
-      <Slogan style={{ marginLeft: "-10px" }}>
-        Powered by{" "}
-        <LinkItem href="https://nextjs.org/">
-          <TbBrandNextjs style={{ marginBottom: "-3px" }} />
-        </LinkItem>
-      </Slogan>
     </FooterWrapper>
   );
 };

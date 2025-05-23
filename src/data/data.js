@@ -2,10 +2,10 @@ export const projects = [
   {
     title: "Coming Soon: React Native App",
     description:
-      "Migrated legacy WinForms application to Angular 15, implemented component driven architecture, utilized NgRx to handle state management. Worked on a large team using Git for version control and Azure for CI/CD pipeline.",
+      "CRUD application built with React Native. This application is a work in progress and will be available soon.",
     video: "",
     tags: ["React Native", "JavaScript", "Node.js"],
-    source: null,
+    source: "https://github.com/ZachMatthews23/",
     id: 0,
     poster: "/images/react-native.png",
   },
