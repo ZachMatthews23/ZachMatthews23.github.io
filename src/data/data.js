@@ -1,13 +1,33 @@
 export const projects = [
   {
+    title: "Coming Soon: React Native App",
+    description:
+      "Migrated legacy WinForms application to Angular 15, implemented component driven architecture, utilized NgRx to handle state management. Worked on a large team using Git for version control and Azure for CI/CD pipeline.",
+    video: "",
+    tags: ["React Native", "JavaScript", "Node.js"],
+    source: null,
+    id: 0,
+    poster: "/images/react-native.png",
+  },
+  {
     title: "Santander Migration",
     description:
       "Migrated legacy WinForms application to Angular 15, implemented component driven architecture, utilized NgRx to handle state management. Worked on a large team using Git for version control and Azure for CI/CD pipeline.",
     video: "",
     tags: ["Angular", "TypeScript", "C#", "Node.js"],
     source: null,
-    id: 0,
+    id: 1,
     poster: "/images/santander.png",
+  },
+  {
+    title: "General Electric Migration",
+    description:
+      "Migrated legacy Angular.js application to Angular 15, implemented component driven architecture, utilized NgRx to handle state management. Worked on a large team using Git for version control and Azure for CI/CD pipeline.",
+    video: "",
+    tags: ["Angular", "TypeScript", "Angular.js", "Node.js"],
+    source: null,
+    id: 2,
+    poster: "/images/ge.png",
   },
   {
     title: "MERN Capstone",
@@ -17,7 +37,7 @@ export const projects = [
     tags: ["MongoDB", "Express", "React.js", "Node.js"],
     source:
       "https://github.com/ZachMatthews23/assignments/tree/main/Level%206/lvl6-capstone",
-    id: 1,
+    id: 3,
     poster: "/images/poster1.png",
   },
   {
@@ -27,7 +47,7 @@ export const projects = [
     video: "/images/2.mp4",
     tags: ["MongoDB", "Express", "React.js", "Node.js"],
     source: "https://github.com/ZachMatthews23/level5-capstone",
-    id: 2,
+    id: 4,
     poster: "/images/poster2.png",
   },
 ];
